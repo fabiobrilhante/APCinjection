@@ -1,4 +1,4 @@
-O Que Acontece no Seu Código
+O Que Acontece no Código
 
 Sequência de Eventos:
 
