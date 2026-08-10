@@ -1,4 +1,4 @@
-# APC Code Injection com Payload XOR
+# APC Code Injection
 
 Este projeto demonstra uma técnica de injeção de código no Windows utilizando **APC (Asynchronous Procedure Call)** em conjunto com **criptografia XOR** para ofuscar o payload no binário.
 
