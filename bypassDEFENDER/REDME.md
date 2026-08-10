@@ -1,7 +1,5 @@
-<h1>bypass windoews defender </h1>
 
-
-<h1></b>antes não era possível passar pelo windows defender por causa do shellcode padrão, a gente era pego pela análise estática no nosso malware </b></h1>
+<h1>antes não era possível passar pelo windows defender por causa do shellcode padrão, a gente era pego pela análise estática no nosso malware</h1>
 
 
 <img width="1024" height="729" alt="Captura de tela 2026-08-10 110137" src="https://github.com/user-attachments/assets/31ea986a-1a36-4701-815d-8e9956fa5933" />
