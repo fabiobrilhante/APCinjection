@@ -24,3 +24,6 @@ Este projeto demonstra uma técnica de injeção de código no Windows utilizand
 - Injeção em processo legítimo do Windows (notepad.exe).
 - APCs para execução furtiva (não cria novas threads).
 - Descriptografia em memória (não em disco).
+
+
+Baseado no trabalho de @cocomelonc e @S12cybersecurity. Técnica documentada no MITRE ATT&CK (T1055 - Process Injection).
