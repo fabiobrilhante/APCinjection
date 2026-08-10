@@ -26,4 +26,6 @@ Este projeto demonstra uma técnica de injeção de código no Windows utilizand
 - Descriptografia em memória (não em disco).
 
 
+
+<b>Créditos</b>
 Baseado no trabalho de @cocomelonc e @S12cybersecurity. Técnica documentada no MITRE ATT&CK (T1055 - Process Injection).
