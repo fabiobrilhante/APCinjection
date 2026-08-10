@@ -8,7 +8,7 @@
 
 
 
-<>*Essa parte de bypass do windows defender teve que ter algumas alterações no código, principalmente na parte do shellcode, pois os bytes não passam da analise estática do windows defender
+*Essa parte de bypass do windows defender teve que ter algumas alterações no código, principalmente na parte do shellcode, pois os bytes não passam da analise estática do windows defender
 mudando a criptografia e adicionando uma chave no código é possível contornar essa primeira fase, da analíse estática*
 
 
