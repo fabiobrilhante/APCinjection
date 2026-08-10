@@ -6,3 +6,13 @@
 
 Essa parte de bypass do windows defender teve que ter algumas alterações no código, principalmente na parte do shellcode, pois os bytes não passam da analise estática do windows defender
 mudando a criptografia e adicionando uma chave no código é possível contornar essa primeira fase, da analíse estática 
+
+
+
+Lembrando essa primeira etapa a gente apenas conseguiu a execução do nosso código executando o calc.exe, antes não era possível por conta do shellcode padrão
+
+
+
+
+
+<img width="1024" height="729" alt="Captura de tela 2026-08-10 110137" src="https://github.com/user-attachments/assets/31ea986a-1a36-4701-815d-8e9956fa5933" />
