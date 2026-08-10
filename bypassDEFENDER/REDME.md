@@ -13,6 +13,16 @@ mudando a criptografia e adicionando uma chave no código é possível contornar
 
 
 
+## Limitação Conhecida
+
+A chave XOR (`"tept"`) está em texto puro no binário, o que permite que um analista descriptografe o payload facilmente. Para um nível mais alto de evasão, considere:
+
+- Usar uma chave gerada dinamicamente em tempo de execução.
+- Substituir APIs monitoradas por syscalls diretas.
+- Usar algoritmos mais fortes (AES, RC4).
+
+
+
 <img width="1034" height="782" alt="image" src="https://github.com/user-attachments/assets/35c2e1db-21d5-4d10-8e21-36350555e298" />
 
 
